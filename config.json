@@ -1,7 +1,7 @@
 {
-	"SchoolName":"山东商业职业技术学院",
+	"SchoolName":"黄河交通学院",
 	"MangerType":"supwisdom",
-	"MangerURL":"http://szyjxgl.sict.edu.cn:9000/",
-	"CalendarFirst":"2020-08-24",
+	"MangerURL":"http://jw.zjtu.edu.cn/eams/homeExt.action",
+	"CalendarFirst":"2023-02-13",
 	"SocketPort":25565
 }
